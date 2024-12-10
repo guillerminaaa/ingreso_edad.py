@@ -1,0 +1,21 @@
+Problematica
+"el usuario quiere saber cual es el area de un circulo"
+
+---------------------------
+Algoritmo:
+1: solicitar al usuario que ingrese el radio del circulo
+2: Calcular el area del circulo usando la formula area = π * radio^2
+3: Mostrar al usuario el area clculada
+
+ ------------------------
+Pseudocodigo
+inicio
+ # 1: solicitar al usuario que ingrese el radio del circulo
+     Motsrar msm:"Por favor, ingrese el radio del circulo"
+     leer el dato ingresadp y asignarlo a variable radio
+# 2: calcular el area del circulo usando la formula area = π * radio^2
+    Definir y asignar a la variable area el resultado de area = π * radio^2
+#3: Mostrar al usuarioel area calculada
+    Mostar mensaje: "El area del circulo con radio, "radio", es:, area"
+    Fin
+-----------------------------------
